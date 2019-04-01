@@ -15,6 +15,21 @@
                     @endif
 
                     You are logged in!
+                        <br>
+                        <br>
+                        <br>
+
+                        <hr>
+
+                        <h1>Your posts: </h1>
+
+
+                    @foreach($posts as $post)
+                        <a href="{{route('post.show', ['id' => $post->id])}}">
+                            <h3>{{$post->title}}</h3>
+                        </a>
+                        <p>{{$post->description}}</p>
+                    @endforeach
                 </div>
             </div>
         </div>

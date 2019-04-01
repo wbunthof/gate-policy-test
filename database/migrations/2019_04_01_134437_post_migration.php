@@ -13,7 +13,13 @@ class PostMigration extends Migration
      */
     public function up()
     {
-        //
+        Schema::create('posts', function (Blueprint $table) {
+            $table->increments('id');
+            $table->string('title');
+            $table->text('description');
+            $table->unsignedInteger('user_id');
+            $table->timestamps();
+        });
     }
 
     /**
@@ -23,6 +29,6 @@ class PostMigration extends Migration
      */
     public function down()
     {
-        //
+        Schema::dropIfExists('posts');
     }
 }
