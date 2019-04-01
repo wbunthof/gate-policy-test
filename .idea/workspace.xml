@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b276dda9-09e0-40f4-827e-3ceca141f573" name="Default Changelist" comment="" />
+    <list default="true" id="b276dda9-09e0-40f4-827e-3ceca141f573" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +172,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -197,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554123877443</updated>
-      <workItem from="1554123883835" duration="1551000" />
+      <workItem from="1554123883835" duration="1838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1551000" />
+    <option name="totallyTimeSpent" value="1838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -213,8 +216,8 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49947917" visible="true" weight="0.32923076" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.5005208" side_tool="true" visible="true" weight="0.32923076" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49947917" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5005208" side_tool="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
